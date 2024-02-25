@@ -1,6 +1,6 @@
 # Hola Devs! 👋
 
-Soy Flor Luz Duarte (creadora de unicornio.dev) y este es el perfil de GitHub donde vamos a ir almacenando y compartiendo todos los proyectos que hagamos en comunidad.
+Soy [Flor Luz Duarte](https://github.com/florluzduarte/) (creadora de unicornio.dev) y este es el perfil de GitHub donde vamos a ir almacenando y compartiendo todos los proyectos que hagamos en comunidad.
 
 ## 🙂 Sobre mi
 Soy Frontend Dev + Diseñadora. LLevo más de 1 año y medio aprendiendo programación de manera autodidacta mientras voy compartiendo en redes sociales todo el proceso de aprendizaje.  
